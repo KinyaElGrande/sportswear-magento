@@ -1,0 +1,14 @@
+{
+    "name": "sportswear/module-blog",
+    "description": "This is a magento2 blog plugin",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "kinyaelgrande",
+            "email": "mumbifranciskinyanjui@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
