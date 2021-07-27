@@ -9,6 +9,14 @@
             "email": "mumbifranciskinyanjui@gmail.com"
         }
     ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "SportsWear\\Blog\\": ""
+        }
+    },
     "require": {
     }
 }
